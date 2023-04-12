@@ -16,7 +16,7 @@ section {
 }
 .form-box {
     position: relative;
-    width: 500px;
+    width: 100px;
     height: 1600px;
     background: white;
     display: flex;
